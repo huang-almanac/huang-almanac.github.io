@@ -104,3 +104,6 @@ footer {
 a{
 	text-decoration: none
 }
+.copyright a {
+	color: lightgray;
+}
