@@ -54,7 +54,8 @@ body {
 }
 
 .suit li {
-	font-size: 12px;
+	font-size: 15px;
+	margin-top: 6px;
 	color: lightgrey;
 }
 
@@ -63,7 +64,6 @@ body {
 	font-size: 30px;
 	font-weight: bolder;
 	color: red;
-	margin-bottom: 20px;
 }
 .avoid {
 	width: 50%;
@@ -76,7 +76,8 @@ body {
 	padding: 10px 40px;
 }
 .avoid li {
-	font-size: 12px;
+	margin-top: 6px;
+	font-size: 15px;
 	color: lightgrey;
 }
 
@@ -85,5 +86,4 @@ body {
 	font-size: 30px;
 	font-weight: bolder;
 	color: green;
-	margin-bottom: 20px;
 }
