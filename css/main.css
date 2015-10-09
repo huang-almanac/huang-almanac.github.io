@@ -87,3 +87,14 @@ body {
 	font-weight: bolder;
 	color: green;
 }
+
+footer {
+	position: fixed;
+	bottom: 0;
+}
+
+.copyright {
+	background: lightgray;
+	font-size: 12px;
+	text-align: center;
+}
