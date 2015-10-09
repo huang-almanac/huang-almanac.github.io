@@ -90,11 +90,17 @@ body {
 
 footer {
 	position: fixed;
+	width: 100%;
+	padding: 10px;
 	bottom: 0;
 }
 
 .copyright {
-	background: lightgray;
+	color: lightgray;
 	font-size: 12px;
 	text-align: center;
+}
+
+a{
+	text-decoration: none
 }
